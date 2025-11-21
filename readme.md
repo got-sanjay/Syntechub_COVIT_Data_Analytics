@@ -7,7 +7,7 @@ and basic reproduction (R-like) insight.
 ## Project Features
 
 ### Data Processing
-- Load Johns Hopkins COVID-19 global time-series
+- Load COVID-19 global time-series
 - Convert cumulative data => daily new cases
 - Smooth noise using 7-day rolling averages
 
@@ -25,6 +25,12 @@ Install all dependencies:
 
 COVID-19 Global confirmed Dataset (Time Series):  
 [Dataset Link](https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv)
+
+## charts
+| Dashboard View | Manage Books | Issue/Return |
+|----------------|--------------|--------------|
+| ![Week Avg](src/charts/Country%20Comparison%20weekly%20Average.png) | ![Peaks](src/charts/COVID-19%20Peaks%20India.png) | ![R Insights](src/charts/Basic%20Reproduction%20Insight.png) |
+
 
 ## Author
 [Sanjay Kumar](https://got-sanjay.github.io/portfolio/) \
