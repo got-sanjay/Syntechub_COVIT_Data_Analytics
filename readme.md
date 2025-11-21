@@ -27,7 +27,7 @@ COVID-19 Global confirmed Dataset (Time Series):
 [Dataset Link](https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv)
 
 ## charts
-| Dashboard View | Manage Books | Issue/Return |
+| Week Avg | Peaks | R Insights |
 |----------------|--------------|--------------|
 | ![Week Avg](src/charts/Country%20Comparison%20weekly%20Average.png) | ![Peaks](src/charts/COVID-19%20Peaks%20India.png) | ![R Insights](src/charts/Basic%20Reproduction%20Insight.png) |
 
